@@ -1,0 +1,2 @@
+INDEX VERSION 1.127+D:\Git\Luisproject\BasicSpringMVC\.metadata\.plugins\org.eclipse.jdt.core
+2418946391.index
