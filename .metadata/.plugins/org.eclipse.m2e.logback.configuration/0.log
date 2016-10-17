@@ -291,3 +291,35 @@
 2016-10-17 15:06:47,735 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Git\Luisproject\BasicSpringMVC\FrameworkSpring\LearningFrameworkSpring\src\main\resources
 2016-10-17 15:06:47,738 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2016-10-17 15:06:47,738 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Git\Luisproject\BasicSpringMVC\FrameworkSpring\LearningFrameworkSpring\src\test\resources
+2016-10-17 15:10:24,282 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-17 15:10:24,283 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Git\Luisproject\BasicSpringMVC\FrameworkSpring\LearningFrameworkSpring\src\main\resources
+2016-10-17 15:10:24,284 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-17 15:10:24,284 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Git\Luisproject\BasicSpringMVC\FrameworkSpring\LearningFrameworkSpring\src\test\resources
+2016-10-17 15:10:35,935 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-17 15:10:35,936 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Git\Luisproject\BasicSpringMVC\FrameworkSpring\LearningFrameworkSpring\src\main\resources
+2016-10-17 15:10:35,937 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-17 15:10:35,938 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Git\Luisproject\BasicSpringMVC\FrameworkSpring\LearningFrameworkSpring\src\test\resources
+2016-10-17 15:11:03,884 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-17 15:11:03,885 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Git\Luisproject\BasicSpringMVC\FrameworkSpring\LearningFrameworkSpring\src\main\resources
+2016-10-17 15:11:03,886 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-17 15:11:03,887 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Git\Luisproject\BasicSpringMVC\FrameworkSpring\LearningFrameworkSpring\src\test\resources
+2016-10-17 15:11:28,240 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-17 15:11:28,241 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Git\Luisproject\BasicSpringMVC\FrameworkSpring\LearningFrameworkSpring\src\main\resources
+2016-10-17 15:11:28,242 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-17 15:11:28,242 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Git\Luisproject\BasicSpringMVC\FrameworkSpring\LearningFrameworkSpring\src\test\resources
+2016-10-17 15:11:39,477 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-17 15:11:39,477 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Git\Luisproject\BasicSpringMVC\FrameworkSpring\LearningFrameworkSpring\src\main\resources
+2016-10-17 15:11:39,478 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-17 15:11:39,479 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Git\Luisproject\BasicSpringMVC\FrameworkSpring\LearningFrameworkSpring\src\test\resources
+2016-10-17 15:12:02,607 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-17 15:12:02,607 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Git\Luisproject\BasicSpringMVC\FrameworkSpring\LearningFrameworkSpring\src\main\resources
+2016-10-17 15:12:02,608 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-17 15:12:02,609 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Git\Luisproject\BasicSpringMVC\FrameworkSpring\LearningFrameworkSpring\src\test\resources
+2016-10-17 15:13:12,546 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-17 15:13:12,546 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Git\Luisproject\BasicSpringMVC\FrameworkSpring\LearningFrameworkSpring\src\main\resources
+2016-10-17 15:13:12,548 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-17 15:13:12,549 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Git\Luisproject\BasicSpringMVC\FrameworkSpring\LearningFrameworkSpring\src\test\resources
+2016-10-17 15:13:23,956 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-17 15:13:23,957 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Git\Luisproject\BasicSpringMVC\FrameworkSpring\LearningFrameworkSpring\src\main\resources
+2016-10-17 15:13:23,962 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-17 15:13:23,962 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Git\Luisproject\BasicSpringMVC\FrameworkSpring\LearningFrameworkSpring\src\test\resources
