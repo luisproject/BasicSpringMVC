@@ -1,0 +1,9 @@
+package vuongluis.dut.udn.vn.spring;
+
+@SuppressWarnings("all")
+public class MainProgram {
+	public static void main(String[]args){
+		// Tạo ra một đối tượng ApplicationContext bằng cách đọc cấu hình
+		// 
+	}
+}
