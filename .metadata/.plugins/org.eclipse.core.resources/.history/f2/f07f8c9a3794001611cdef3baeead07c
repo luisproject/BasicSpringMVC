@@ -1,0 +1,6 @@
+package vuongluis.dut.udn.vn;
+
+@SuppressWarnings("all")
+public class CheckNumeric {
+	
+}
