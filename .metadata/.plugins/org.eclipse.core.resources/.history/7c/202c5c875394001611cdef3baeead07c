@@ -1,0 +1,10 @@
+package demo.springmvc.config;
+
+import org.springframework.context.annotation.ComponentScan;
+import org.springframework.context.annotation.Configuration;
+
+@Configuration
+@ComponentScan("demo.springmvc.*") 
+public class ApplicationContextConfig {
+
+}

@@ -1,0 +1,14 @@
+package demo.springmvc.controller;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.ui.Model;
+
+@Controller
+public class ControllerHelloWorld {
+
+	public String hello(Model model){
+		model.addAttribute("greeting", "Hello Spring MVC");
+        return "helloworld";
+	}
+	
+}
