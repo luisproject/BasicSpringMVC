@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.apache.commons.lang3.StringUtils"/>
+<fullyQualifiedTypeName name="org.springframework.stereotype.Service"/>
+<fullyQualifiedTypeName name="vuongluis.dut.udn.vn.lang.Language"/>
+<fullyQualifiedTypeName name="org.springframework.context.annotation.ImportResource"/>
+<fullyQualifiedTypeName name="org.springframework.stereotype.Repository"/>
+<fullyQualifiedTypeName name="java.sql.Date"/>
+<fullyQualifiedTypeName name="java.util.Date"/>
+<fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
+<fullyQualifiedTypeName name="vuongluis.dut.udn.vn.spring.bean.MyReponsitory"/>
+<fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+<fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Configurable"/>
+<fullyQualifiedTypeName name="vuongluis.dut.udn.vn.spring.lang.impl.Vietnamese"/>
+<fullyQualifiedTypeName name="java.lang.SuppressWarnings"/>
+<fullyQualifiedTypeName name="org.springframework.context.ApplicationContext"/>
+<fullyQualifiedTypeName name="vuongluis.dut.udn.vn.spring.config.AppConfiguration"/>
+<fullyQualifiedTypeName name="vuongluis.dut.udn.vn.spring.lang.Language"/>
+<fullyQualifiedTypeName name="vuongluis.dut.udn.vn.spring.bean.MyComponent"/>
+<fullyQualifiedTypeName name="vuongluis.dut.udn.vn.spring.bean.GreetingService"/>
+<fullyQualifiedTypeName name="org.springframework.web.WebApplicationInitializer"/>
+<fullyQualifiedTypeName name="org.springframework.context.annotation.AnnotationConfigApplicationContext"/>
+<fullyQualifiedTypeName name="demo.springmvc.config.ApplicationContextConfig"/>
+<fullyQualifiedTypeName name="javax.servlet.ServletRegistration"/>
+<fullyQualifiedTypeName name="javax.servlet.ServletRegistration.Dynamic"/>
+<fullyQualifiedTypeName name="org.springframework.web.servlet.DispatcherServlet"/>
+<fullyQualifiedTypeName name="org.springframework.web.context.ContextLoaderListener"/>
+<fullyQualifiedTypeName name="javax.servlet.FilterRegistration"/>
+<fullyQualifiedTypeName name="org.springframework.web.filter.CharacterEncodingFilter"/>
+<fullyQualifiedTypeName name="org.springframework.context.annotation.ComponentScan"/>
+<fullyQualifiedTypeName name="org.springframework.context.annotation.Bean"/>
+<fullyQualifiedTypeName name="org.springframework.web.servlet.view.InternalResourceViewResolver"/>
+<fullyQualifiedTypeName name="org.springframework.context.annotation.Configuration"/>
+<fullyQualifiedTypeName name="org.springframework.web.servlet.config.annotation.EnableWebMvc"/>
+<fullyQualifiedTypeName name="org.springframework.web.servlet.config.annotation.ResourceHandlerRegistry"/>
+<fullyQualifiedTypeName name="org.springframework.web.servlet.config.annotation.DefaultServletHandlerConfigurer"/>
+<fullyQualifiedTypeName name="org.springframework.stereotype.Controller"/>
+<fullyQualifiedTypeName name="org.springframework.ui.Model"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestMapping"/>
+<fullyQualifiedTypeName name="org.springframework.web.context.support.AnnotationConfigWebApplicationContext"/>
+</qualifiedTypeNameHistroy>
